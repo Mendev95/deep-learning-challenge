@@ -1,1 +1,1 @@
-# deep-learning-challenge
+The objective of this analysis is to leverage machine learning techniques and neural networks to assist Alphabet Soup, a philanthropic foundation, in forecasting the likelihood of success for grant applications. By examining a dataset comprising over 34,000 organizations that have previously been granted funding, our goal is to develop a binary classifier model capable of predicting the probability of success for applicants if they are funded by Alphabet Soup.
